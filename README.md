@@ -58,6 +58,6 @@ To remediate operational deficiencies and address non-compliance risks, a tailor
 ---
 
 ## Supporting Project Documentation
-* **Baseline Policy**: [`TeleMedica Information Security Policy.docx`](./TeleMedica%20Information%20Security%20Policy.docx)
-* **Policy Analysis & Legal Evaluation**: [`QEN1 Task 1.docx`](./QEN1%20Task%201.docx)
-* **SATE Program Plan**: [`Task 2.docx`](./Task%202.docx)
+* **Baseline Policy**: [TeleMedica Information Security Policy.docx](./TeleMedica%20Information%20Security%20Policy.docx)
+* **Policy Analysis & Legal Evaluation**: [QEN1 Task 1.docx](./QEN1%20Task%201.docx)
+* **SATE Program Plan**: [Task 2.docx](./Task%202.docx)
